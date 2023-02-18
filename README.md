@@ -19,32 +19,17 @@ Python version
 Python 3.7.6 (default, Jan  8 2020, 19:59:22) 
 [GCC 7.3.0] :: Anaconda, Inc. on linux
 
+Julia Version 1.8.1 (2022-09-06)
+
 Date 18 Feb 2023
 
 Box Spec
-
-            .-/+oossssoo+/-.               
-        `:+ssssssssssssssssss+:`           ------------ 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.1 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.15.0-60-generic 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.1.16 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: 
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: 
-  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: 
-   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: AMD Ryzen 9 3900X (24) @ 3.800G 
-    .ossssssssssssssssssdMMMNysssso.       GPU: 
-      -+sssssssssssssssssyyyssss+-         Memory: 64Gb RAM
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.                                       
-                                                                   
-
+OS:         Ubuntu 22.04.1 LTS x86_64 
+Kernel:     5.15.0-60-generic 
+Shell:      bash 5.1.16 
+CPU:        AMD Ryzen 9 3900X (24) @ 3.800G 
+Memory:     64Gb RAM
+                     
 =#
 
 #=
