@@ -1,2 +1,3 @@
-# Ster_Brocot_comparison_Julia_vs_Python
+# Stern Brocot comparison Julia vs Python
+
 speed comparison of Stern Brocot between Julia and Python
